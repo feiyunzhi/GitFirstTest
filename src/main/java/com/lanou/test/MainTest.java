@@ -15,6 +15,6 @@ public class MainTest {
 
         System.out.println("行得通:--通通通!");
 
-
+        Integer b = 3333;
     }
 }
