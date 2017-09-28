@@ -5,6 +5,9 @@ package com.lanou.test;
  */
 public class MainTest {
     public static void main(String[] args) {
+
+        System.out.println("行行行:--通通通");
+
         System.out.println("行得通:--通通通!");
 
 
