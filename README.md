@@ -7,7 +7,7 @@
 
 ```java
 
-int a  = 0;
+int a = 0;
 
 String b = "行得通";
 

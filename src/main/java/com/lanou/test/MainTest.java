@@ -8,6 +8,11 @@ public class MainTest {
 
         System.out.println("行行行:--通通通");
 
+        Integer a = 20;
+        a++;
+
+        System.out.println(a);
+
         System.out.println("行得通:--通通通!");
 
 
