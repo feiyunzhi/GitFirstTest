@@ -15,6 +15,8 @@ public class MainTest {
 
         System.out.println("行得通:--通通通!");
 
+        System.out.println("造冲突:--");
+
         Integer b = 3333;
     }
 }
